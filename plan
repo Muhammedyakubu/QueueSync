@@ -1,0 +1,20 @@
+Application Usage:
+- User navigates to home site, and is prompted to join/create a party
+  - On "Join":
+    - They are prompted to enter "PartyCode"
+    - Then they are prompted to enter their "Username"
+    - They are then taken to "GuestHomePage"
+  - On "Create":
+    - They are required to choose a StreamingService - AppleMusic, Spotify, or Youtube (for now just AppleMusic so we can skip this page)
+    - Then they have to sign in to their respective streaming service (except if Youtube bc free)
+    - Then they are prompted to Enter a "Username"
+    - Then enter the "PartyName"
+    - After which they are provided with a "PartyCode" and a sharable link to the party
+    - They are then taken to "HostHomePage"
+
+TODO: decide if you want user accounts to be stored 
+Pros:
+  - This will enable 
+
+Backend:
+- Would be connected
