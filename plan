@@ -39,8 +39,8 @@ Feature Doc:
 
 
 TODO: 
-- decide if you wanna host the front & backend on a single git repo like last time
-  - For now we can have this host both. Using a vanilla javascript
+  - decide if you wanna host the front & backend on a single git repo like last time
+    - For now we can have this host both. Using a vanilla javascript
 
 
 Backend:
